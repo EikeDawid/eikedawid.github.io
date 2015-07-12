@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Your site title</title>
+    <link>http://eikedawid.github.io/</link>
+    <description>Recent content on Your site title</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <copyright>&amp;copy; Copyright notice</copyright>
+    <lastBuildDate>Sun, 12 Jul 2015 21:15:15 +0100</lastBuildDate>
+    <atom:link href="http://eikedawid.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>about</title>
+      <link>http://eikedawid.github.io/about/</link>
+      <pubDate>Sun, 12 Jul 2015 21:15:15 +0100</pubDate>
+      
+      <guid>http://eikedawid.github.io/about/</guid>
+      <description>&lt;p&gt;About!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>hello world</title>
+      <link>http://eikedawid.github.io/post/first/</link>
+      <pubDate>Sun, 12 Jul 2015 20:58:14 +0100</pubDate>
+      
+      <guid>http://eikedawid.github.io/post/first/</guid>
+      <description>
+
+&lt;h1 id=&#34;hello-world:e8fb9c67eba912c72729806db31eaa1b&#34;&gt;Hello World!&lt;/h1&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
